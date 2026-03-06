@@ -259,3 +259,6 @@ Snapshot содержит:
 **Как посмотреть snapshot?**
 - `SELECT pg_current_snapshot();`
 - `SELECT txid_current_snapshot();`
+
+## 6. VACUUM
+
